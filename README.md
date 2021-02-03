@@ -2,7 +2,8 @@
 
 WebApp Code
 
-THIS IS A README FILE DETAILS OF THE RSHINY HDSHEEP WEBAPP
+THIS IS A README FILE
+# DETAILS OF THE RSHINY HDSHEEP WEBAPP #
 
 The code present in this repository sets up the UI and background of the website application. URL: hdsheep.cer.auckland.ac.nz
 
